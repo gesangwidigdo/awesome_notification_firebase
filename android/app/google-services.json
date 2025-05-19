@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "347534858789",
+    "project_id": "awesome-notification-firebase",
+    "storage_bucket": "awesome-notification-firebase.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:347534858789:android:4e488c224bd77a4f2b3dcc",
+        "android_client_info": {
+          "package_name": "com.example.awesome_notification_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQBaRU2d_KuHsIaYJnYt0VmK0i5Eul8_g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
