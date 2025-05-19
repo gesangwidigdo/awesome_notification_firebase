@@ -27,7 +27,7 @@ class MainApp extends StatelessWidget {
         'home': (context) => const HomeScreen(),
         'login': (context) => const LoginScreen(),
         'register': (context) => const RegisterScreen(),
-        'second_screen': (context) => const SecondScreen(),
+        'second': (context) => const SecondScreen(),
       },
       navigatorKey: navigatorKey,
     );
