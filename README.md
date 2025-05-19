@@ -1,3 +1,6 @@
 # awesome_notification_firebase
 
-A new Flutter project.
+| Name                         | NRP        | Class |
+|------------------------------|------------|-------|
+| Muhammad Gesang Ridho Widigdo| 5025221216 | C     |
+
